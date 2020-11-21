@@ -1,2 +1,2 @@
 # spoilagecellar
-Spoilage Cellar mod for game Dont Starve
+Spoilage Cellar lua mod for game Dont Starve
